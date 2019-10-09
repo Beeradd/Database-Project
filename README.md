@@ -1,6 +1,6 @@
 ***Important***
 The MYSQL implementation in the project is broken, as I no longer have access to my student account for the database servers. 
-If you would like to see what the project looked like originally, please see the video on my website: /*url goes here*/
+If you would like to see what the project looked like originally, please see the video: https://www.youtube.com/watch?v=efLAXAtzvEY
 ***************
 
 Brady Sprinkle
